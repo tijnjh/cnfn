@@ -1,7 +1,6 @@
 {
   "name": "cnfn",
-  "version": "0.0.1",
-  "private": true,
+  "version": "0.0.2",
   "description": "A cn function that combines clsx and tailwind-merge",
   "type": "module",
   "files": [

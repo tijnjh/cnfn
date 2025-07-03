@@ -6,4 +6,6 @@ export default defineConfig({
   dts: {
     isolatedDeclarations: true,
   },
+  minify: true,
+  noExternal: ["clsx", "tailwind-merge"],
 });
